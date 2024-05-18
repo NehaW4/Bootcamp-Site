@@ -3,16 +3,13 @@
 To get started, we'll need to create a database named [Database_Name] and a table named enrollment. This table should have the following columns:
 
 first_name: To store the first name of the enrolled individuals.
-
 last_name: To store the last name of the enrolled individuals.
-
 email: To store the email addresses of the enrolled individuals.
-
 phone: To store the phone numbers of the enrolled individuals.
 
 Once we have the database and table set up with these columns, we'll be ready to start storing enrollment information for our project.
 
-#Output :
+# Output :
 
 <img width="959" alt="bootcamo_img1" src="https://github.com/NehaW4/Bootcamp-Site/assets/92804162/ef1075cc-62d7-4868-b140-c97cf6d4129f">
 <img width="957" alt="bootcamo_img2" src="https://github.com/NehaW4/Bootcamp-Site/assets/92804162/0bd3e321-9b01-4679-9e59-6d1d148f30ae">
