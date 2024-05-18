@@ -1,6 +1,8 @@
 # Bootcamp-Site
 
 To get started, we'll need to create a database named [Database_Name] and a table named enrollment. This table should have the following columns:
+1.first_name: To store the first name of the enrolled individuals.
+2.last_name: To store the last name of the enrolled individuals.
 
 1.first_name: To store the first name of the enrolled individuals.
 2.last_name: To store the last name of the enrolled individuals.
